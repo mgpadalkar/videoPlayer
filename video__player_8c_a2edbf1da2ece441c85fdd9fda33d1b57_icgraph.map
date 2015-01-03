@@ -1,0 +1,9 @@
+<map id="resetField" name="resetField">
+<area shape="rect" id="node2" href="$video__player_8c.html#aaf4a5d88acfd05051f8fab676add1fb8" title="Custome slider&#39;s callback function. " alt="" coords="143,5,230,32"/>
+<area shape="rect" id="node5" href="$video__player_8c.html#a7af2cfb24a08375c13694cbdafd98b5b" title="Function to initialise the control pannel. " alt="" coords="312,157,405,184"/>
+<area shape="rect" id="node6" href="$video__player_8c.html#a09941133d30b91e3c7aa550917d2c214" title="Function to change the status message. " alt="" coords="133,107,240,133"/>
+<area shape="rect" id="node7" href="$video__player_8c.html#a3a91b7b9b4daeb55fc5ee6d12fefd2ef" title="Function to edit a textbox. " alt="" coords="319,208,398,235"/>
+<area shape="rect" id="node8" href="$video__player_8c.html#ac4d7ff28dc7f94c1105387f2a654ecbb" title="Function to reset all fields to their previous contents. " alt="" coords="139,56,235,83"/>
+<area shape="rect" id="node3" href="$video__player_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="477,107,528,133"/>
+<area shape="rect" id="node4" href="$video__player_8c.html#a3f60fead76336882e130fed5fa14ad5b" title="Mouse&#39;s callback function. " alt="" coords="288,56,429,83"/>
+</map>

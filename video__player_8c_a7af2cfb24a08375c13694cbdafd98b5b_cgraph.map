@@ -1,0 +1,12 @@
+<map id="initialize_pnl" name="initialize_pnl">
+<area shape="rect" id="node2" href="$video__player_8c.html#a2edbf1da2ece441c85fdd9fda33d1b57" title="Function to reset a given text field. " alt="" coords="322,5,401,32"/>
+<area shape="rect" id="node3" href="$video__player_8c.html#ae7b974c2c982be42384f3df3745d285d" title="Function to get a new button. " alt="" coords="161,157,239,184"/>
+<area shape="rect" id="node11" href="$video__player_8c.html#a09941133d30b91e3c7aa550917d2c214" title="Function to change the status message. " alt="" coords="147,56,253,83"/>
+<area shape="rect" id="node4" href="$video__player_8c.html#a9d4f34645fe9647d7c0837f67418e972" title="Function to vertically color a button. " alt="" coords="301,56,421,83"/>
+<area shape="rect" id="node5" href="$video__player_8c.html#a10fa991dc298c6c6814e7ce53ea2fc45" title="Function to draw a triangle on a given image. " alt="" coords="312,107,411,133"/>
+<area shape="rect" id="node7" href="$video__player_8c.html#a37a359a0b4d8b4fbfbfaae5ed543d0af" title="Function to draw a square on a given image. " alt="" coords="313,157,409,184"/>
+<area shape="rect" id="node8" href="$video__player_8c.html#a934cccb388758189d3d2b2ece3471f30" title="Function to draw a pause symbol on a given image. " alt="" coords="315,208,407,235"/>
+<area shape="rect" id="node9" href="$video__player_8c.html#ae2ddc6f03947555ef85b1de67238070e" title="Function to draw a step&#45;up symbol on a given image. " alt="" coords="313,259,409,285"/>
+<area shape="rect" id="node10" href="$video__player_8c.html#a51bad00904c66114569b3fa5c24b87fe" title="Function to draw a step&#45;down symbol on a given image. " alt="" coords="305,309,418,336"/>
+<area shape="rect" id="node6" href="$video__player_8c.html#a9ae8539a43cdfc9eaa8b131e4435fd40" title="Function to fill a symbol with a given color. " alt="" coords="470,132,541,159"/>
+</map>

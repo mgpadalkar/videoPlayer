@@ -1,0 +1,17 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$video__player_8c.html#a7af2cfb24a08375c13694cbdafd98b5b" title="Function to initialise the control pannel. " alt="" coords="128,56,221,83"/>
+<area shape="rect" id="node4" href="$video__player_8c.html#ae7b974c2c982be42384f3df3745d285d" title="Function to get a new button. " alt="" coords="307,259,386,285"/>
+<area shape="rect" id="node12" href="$video__player_8c.html#a09941133d30b91e3c7aa550917d2c214" title="Function to change the status message. " alt="" coords="293,107,400,133"/>
+<area shape="rect" id="node13" href="$video__player_8c.html#a3f60fead76336882e130fed5fa14ad5b" title="Mouse&#39;s callback function. " alt="" coords="104,157,245,184"/>
+<area shape="rect" id="node14" href="$video__player_8c.html#aaf4a5d88acfd05051f8fab676add1fb8" title="Custome slider&#39;s callback function. " alt="" coords="303,208,390,235"/>
+<area shape="rect" id="node16" href="$video__player_8c.html#a3a91b7b9b4daeb55fc5ee6d12fefd2ef" title="Function to edit a textbox. " alt="" coords="135,5,214,32"/>
+<area shape="rect" id="node3" href="$video__player_8c.html#a2edbf1da2ece441c85fdd9fda33d1b57" title="Function to reset a given text field. " alt="" coords="469,107,547,133"/>
+<area shape="rect" id="node5" href="$video__player_8c.html#a9d4f34645fe9647d7c0837f67418e972" title="Function to vertically color a button. " alt="" coords="448,309,568,336"/>
+<area shape="rect" id="node6" href="$video__player_8c.html#a10fa991dc298c6c6814e7ce53ea2fc45" title="Function to draw a triangle on a given image. " alt="" coords="459,411,557,437"/>
+<area shape="rect" id="node8" href="$video__player_8c.html#a37a359a0b4d8b4fbfbfaae5ed543d0af" title="Function to draw a square on a given image. " alt="" coords="460,360,556,387"/>
+<area shape="rect" id="node9" href="$video__player_8c.html#a934cccb388758189d3d2b2ece3471f30" title="Function to draw a pause symbol on a given image. " alt="" coords="462,157,554,184"/>
+<area shape="rect" id="node10" href="$video__player_8c.html#ae2ddc6f03947555ef85b1de67238070e" title="Function to draw a step&#45;up symbol on a given image. " alt="" coords="460,208,556,235"/>
+<area shape="rect" id="node11" href="$video__player_8c.html#a51bad00904c66114569b3fa5c24b87fe" title="Function to draw a step&#45;down symbol on a given image. " alt="" coords="451,259,565,285"/>
+<area shape="rect" id="node7" href="$video__player_8c.html#a9ae8539a43cdfc9eaa8b131e4435fd40" title="Function to fill a symbol with a given color. " alt="" coords="617,385,687,412"/>
+<area shape="rect" id="node15" href="$video__player_8c.html#ac4d7ff28dc7f94c1105387f2a654ecbb" title="Function to reset all fields to their previous contents. " alt="" coords="299,157,395,184"/>
+</map>
